@@ -1,0 +1,29 @@
+{
+  "name": "ducimussequi",
+  "version": "1.0.0",
+  "description": "Plugin to add Sass support to styled-jsx",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JackyPollich/ducimussequi.git"
+  },
+  "keywords": [
+    "styled-jsx-plugin",
+    "non",
+    "sass"
+  ],
+  "author": "RosendoRosenbaum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JackyPollich/ducimussequi.git/issues"
+  },
+  "homepage": "https://github.com/JackyPollich/ducimussequi.git",
+  "peerDependencies": {
+    "node-sass": "*"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "node-sass": "^4.5.3",
+    "strip-indent": "^2.0.0"
+  }
+}
